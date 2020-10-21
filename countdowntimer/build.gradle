@@ -6,9 +6,9 @@ apply plugin: 'com.github.panpf.bintray-publish'
 publish{
     userOrg = 'fengjianweixx'
     repoName = 'newpos'
-    groupId = 'com.newpos.lib'
+    groupId = 'com.pipishrimp.lib'
     artifactId = 'countdowntimer'
-    publishVersion = '1.0.1'
+    publishVersion = '1.0.0'
     desc = 'Custom count down timer'
     website = 'no'
     dryRun = false

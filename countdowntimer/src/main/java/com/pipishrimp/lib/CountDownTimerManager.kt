@@ -1,4 +1,4 @@
-package com.newpos.countdowntimer
+package com.pipishrimp.lib
 
 import android.os.CountDownTimer
 import android.os.Handler
